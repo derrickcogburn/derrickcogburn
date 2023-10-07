@@ -3,7 +3,7 @@ I'm a professor of information technology and analytics at American University
 I have a joint appointment between two schools, Kogod School of Business and School of International Service
 I teach graduate data science courses, particularly big data analytics and text mining in R/RStudio and Python
 In addition, I teach undergraduate courses on the Edge of Technology and a Senior Capstone on Inclusive Sustainable Development
-I am currently working on using BERT and PyTorch for NLP analytics
+I am currently working on using BERT and PyTorch for NLP analytics.
 <!--
 **derrickcogburn/derrickcogburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
