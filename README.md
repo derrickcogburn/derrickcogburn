@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a full professor of Information Technology &  Analytics and Environment, Development & Health at American University.
 I have a joint appointment between two schools, the Kogod School of Business and the School of International Service.
-I teach graduate data science courses, particularly big data analytics and text mining in R and Python using the Positron IDE.
+I teach graduate data science courses, particularly Advanced Text Analytics with AI and ML in R and Python using the Positron IDE.
 In addition, I teach undergraduate courses on the Edge of Technology and a Senior Capstone on Inclusive Sustainable Development.
 I am currently working on using BERT and PyTorch for NLP analytics.
 <!--
