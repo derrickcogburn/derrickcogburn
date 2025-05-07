@@ -3,7 +3,7 @@ I'm a full professor of Information Technology &  Analytics and Environment, Dev
 I have a joint appointment between two schools, the Kogod School of Business and the School of International Service.
 I teach graduate data science courses, particularly Advanced Text Analytics with AI and ML in R and Python using the Positron IDE.
 In addition, I teach undergraduate courses on the Edge of Technology and a Senior Capstone on Inclusive Sustainable Development.
-I am currently working on using BERT and PyTorch for NLP analytics.
+We are currently leveraging a suite of R and Python packages including: tm, tidytext, quanteda, Gensim, spaCy, TextBlob, PyTorch, Transformers for NLP analytics and GenerativeAI approaches.
 <!--
 **derrickcogburn/derrickcogburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
